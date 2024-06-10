@@ -1,0 +1,33 @@
+.buttonFlex {
+  display: flex;
+  gap: 3rem;
+}
+
+.buttonSize {
+  width: 15rem;
+  height: 2.5rem;
+  background-color: red;
+  border-radius: 0.5rem;
+  border: none;
+  box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.2);
+  color: white;
+  font-size: large;
+}
+
+.buttonSize:hover {
+  background-color: rgba(0, 123, 255, 0.8); /* 기존 파란색보다 어둡게 */
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.5s ease; /* 배경색이 천천히 변화하도록 설정 */
+}
+
+.resetButton {
+  background-color: green;
+}
+
+.timeFlex {
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+}

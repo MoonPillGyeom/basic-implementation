@@ -1,0 +1,14 @@
+.rightItemBox {
+  width: 15rem;
+  height: 40rem;
+  background-color: green;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.rightButton {
+  display: flex;
+  width: 15rem;
+  height: 100rem;
+}

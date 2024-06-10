@@ -1,0 +1,43 @@
+.leftItemBox {
+  width: 15rem;
+  height: 40rem;
+  background-color: green;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.leftItemFrist {
+  height: 10rem;
+  background-color: red;
+}
+
+.leftItemSecond {
+  height: 10rem;
+  background-color: orange;
+}
+
+.leftItemThird {
+  height: 10rem;
+  background-color: yellow;
+}
+
+.leftItemFourth {
+  height: 10rem;
+  background-color: green;
+}
+
+.rightItemBox {
+  width: 15rem;
+  height: 40rem;
+  background-color: green;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.rightButton {
+  display: flex;
+  width: 15rem;
+  height: 100rem;
+}

@@ -1,0 +1,13 @@
+.itemFlex {
+  margin-top: 1rem;
+  width: 100%;
+  height: 2rem;
+  font-size: large;
+  display: flex;
+  border-bottom: 1px solid gray;
+  gap: 1.5rem;
+}
+
+.index {
+  margin-left: 0.5rem;
+}
